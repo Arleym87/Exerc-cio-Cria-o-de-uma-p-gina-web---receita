@@ -1,2 +1,2 @@
-# Exerc-cio-Cria-o-de-uma-p-gina-web---receita
+# Exercice-web-site-recipies
 Atividade de aplicação de aprendizagens
